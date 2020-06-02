@@ -1,0 +1,19 @@
+months = ('January','February','March','April','May','June',\
+'July','August','September','October','November','  December')
+
+cats = ['Tom', 'Snappy', 'Kitty', 'Jessie', 'Chester']
+
+print cats[2]
+
+cats.append('Catherine')
+
+del cats[1]
+
+phonebook = {'Andrew Parson':8806336, \
+'Emily Everett':6784346, 'Peter Power':7658344, \
+'Lewis Lame':1122345}
+
+phonebook['Gingerbread Man'] = 1234567
+
+del phonebook['Andrew Parson']
+
